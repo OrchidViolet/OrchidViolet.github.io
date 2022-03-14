@@ -2,7 +2,7 @@
 if (location.href.indexOf("link") !== -1) {
     var imgObj = document.getElementsByTagName("img");
     for (i = 0; i < imgObj.length; i++) {　　
-        imgObj[i].onerror = function() { this.src = "https://cdn.jsdelivr.net/gh/OrchidViolet/OrchidViolet.github.io/img/head_img.png" }
+        imgObj[i].onerror = function() { this.src = "https://cdn.jsdelivr.net/gh/OrchidViolet/OrchidViolet.github.io@1.0/img/friend_404.gif" }
     }
 }
 
