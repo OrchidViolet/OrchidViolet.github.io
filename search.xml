@@ -21,7 +21,34 @@
   <entry>
     <title>test</title>
     <url>/2022/03/15/test1/</url>
-    <content><![CDATA[<p>This is a test.</p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>This is a test.</p>
 ]]></content>
+  </entry>
+  <entry>
+    <title>cloud computing -- hw1</title>
+    <url>/2022/03/18/hw1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>What are the technical components of the operational capability technology?</font></p>
+</div>
+
+<ol>
+<li>Broadband network and Internet architecture: Internet is based on a centerless supply and management model and is not controlled by any centralized entity.<br>The main components are connectionless packet switching and router-based interconnection using network routers and interactive machines. </li>
+<li>Data center technology: the data center is a special IT infrastructure for centralized storage of IT resources, which should be operable remotely and have high availability. </li>
+<li>Virtualization technology: server virtualization refers to the use of virtualization software to abstract IT hardware into virtual servers, which is hardware-independent and has multiple levels of virtualization technology. </li>
+<li>Web technology: the common term for the implementation of cloud services, the basic technologies include URL, HTTP, HTML and XML, with great flexibility. </li>
+<li>Multi-tenant technology: similar to virtualizing software, each tenant is unaware of the existence of other tenants, which can improve security and facilitate billing. </li>
+<li>Service technology: it is composed of Web services, service agents and service middleware, which standardizes and simplifies the deployment of cloud services.</li>
+</ol>
+<div class="note green icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>List at least three virtualization softwar.</font></p>
+</div>
+
+<ol>
+<li>Docker: container virtualization, virtualizing a separate environment on the host computer for software use, rather than virtualizing a new system, is more convenient to use, but the simulation is not as real as the virtual machine. </li>
+<li>The bare metal virtualization system provided by VMware ESXi:VMware does not need a host system and can run multiple virtual machines directly. </li>
+<li>The personal virtualization software provided by VMware Workstation:VMware needs to run the software on the host operating system and then run the virtual machine on the software.</li>
+</ol>
+]]></content>
+      <tags>
+        <tag>cc-hw</tag>
+      </tags>
   </entry>
 </search>
