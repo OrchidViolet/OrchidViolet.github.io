@@ -55,8 +55,9 @@
   <entry>
     <title>Cloud Computing -- hw2</title>
     <url>/2022/03/21/cc_hw2/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>###<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举威胁作用者有哪些，并简要说明。</font></p>
-</div></p>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举威胁作用者有哪些，并简要说明。</font></p>
+</div>
+
 <h5 id="威胁作用者主要有："><a href="#威胁作用者主要有：" class="headerlink" title="威胁作用者主要有："></a>威胁作用者主要有：</h5><p>​    匿名攻击者、恶意服务作用者，授信的攻击者、恶意的内部人员；</p>
 <h5 id="说明："><a href="#说明：" class="headerlink" title="说明："></a>说明：</h5><ul>
 <li><p>匿名攻击者是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</p>
@@ -68,8 +69,9 @@
 <li><p>恶意的内部人员是试图滥用对云资源范围的访问特权的人。</p>
 </li>
 </ul>
-<p>###<div class="note red icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举云安全威胁有哪些，并简要说明。</font></p>
-</div></p>
+<div class="note red icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举云安全威胁有哪些，并简要说明。</font></p>
+</div>
+
 <h5 id="云安全威胁主要有："><a href="#云安全威胁主要有：" class="headerlink" title="云安全威胁主要有："></a>云安全威胁主要有：</h5><ul>
 <li>流量窃听</li>
 <li>恶意媒介</li>
