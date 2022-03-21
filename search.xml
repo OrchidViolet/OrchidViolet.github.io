@@ -25,30 +25,70 @@
 ]]></content>
   </entry>
   <entry>
-    <title>cloud computing -- hw1</title>
-    <url>/2022/03/18/hw1/</url>
-    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>What are the technical components of the operational capability technology?</font></p>
+    <title>Cloud Computing -- hw1</title>
+    <url>/2022/03/18/cc_hw1/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>云使能技术包括哪些技术组件？用一句话简要说明其关键特征。</font></p>
 </div>
 
 <ol>
-<li>Broadband network and Internet architecture: Internet is based on a centerless supply and management model and is not controlled by any centralized entity.<br>The main components are connectionless packet switching and router-based interconnection using network routers and interactive machines. </li>
-<li>Data center technology: the data center is a special IT infrastructure for centralized storage of IT resources, which should be operable remotely and have high availability. </li>
-<li>Virtualization technology: server virtualization refers to the use of virtualization software to abstract IT hardware into virtual servers, which is hardware-independent and has multiple levels of virtualization technology. </li>
-<li>Web technology: the common term for the implementation of cloud services, the basic technologies include URL, HTTP, HTML and XML, with great flexibility. </li>
-<li>Multi-tenant technology: similar to virtualizing software, each tenant is unaware of the existence of other tenants, which can improve security and facilitate billing. </li>
-<li>Service technology: it is composed of Web services, service agents and service middleware, which standardizes and simplifies the deployment of cloud services.</li>
+<li>宽带网络和Internet架构：Internet以无中心的供给和管理模型为基础，不受任何集中式实体的控制。主要组件是使用网络路由器和交互机的无连接分组交换与基于路由器的互联。</li>
+<li>数据中心技术：数据中心是专门的IT基础设施，用于集中存放IT资源，应当可以远程操作，具有高可用性。</li>
+<li>虚拟化技术：服务器虚拟化是指利用虚拟化软件将IT硬件抽象为虚拟服务器，具有硬件无关性，有多种层次的虚拟化技术。</li>
+<li>Web技术：常用语云服务的实现，基本技术包括URL、HTTP、HTML和XML，具有极大灵活性。</li>
+<li>多租户技术：类似于将软件虚拟化，每个租户意识不到其他租户的存在，可提高安全性，便于计费。</li>
+<li>服务技术：由Web服务，服务代理，服务中间件组成，规范和简化了云服务的部署。</li>
 </ol>
-<div class="note green icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>List at least three virtualization softwar.</font></p>
+<div class="note green icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举至少3种虚拟化软件，并用一句话概括其特点。</font></p>
 </div>
 
 <ol>
-<li>Docker: container virtualization, virtualizing a separate environment on the host computer for software use, rather than virtualizing a new system, is more convenient to use, but the simulation is not as real as the virtual machine. </li>
-<li>The bare metal virtualization system provided by VMware ESXi:VMware does not need a host system and can run multiple virtual machines directly. </li>
-<li>The personal virtualization software provided by VMware Workstation:VMware needs to run the software on the host operating system and then run the virtual machine on the software.</li>
+<li>Docker：容器虚拟化，在宿主机上虚拟一个单独环境给软件使用，而不是虚拟一个新系统，使用更加方便，但是模拟不如虚拟机真实。</li>
+<li>VMware ESXi：VMware 提供的裸机虚拟化系统，不需要宿主系统，可直接运行多个虚拟机。</li>
+<li>VMware Workstation：VMware 提供的个人虚拟化软件，需要在宿主操作系统上运行软件，再于软件上运行虚拟机。</li>
 </ol>
 ]]></content>
       <tags>
-        <tag>cc-hw</tag>
+        <tag>Cloud Computing</tag>
+        <tag>homework</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>Cloud Computing -- hw2</title>
+    <url>/2022/03/21/cc_hw2/</url>
+    <content><![CDATA[<link rel="stylesheet" class="aplayer-secondary-style-marker" href="\assets\css\APlayer.min.css"><script src="\assets\js\APlayer.min.js" class="aplayer-secondary-script-marker"></script><p>###<div class="note blue icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举威胁作用者有哪些，并简要说明。</font></p>
+</div></p>
+<h5 id="威胁作用者主要有："><a href="#威胁作用者主要有：" class="headerlink" title="威胁作用者主要有："></a>威胁作用者主要有：</h5><p>​    匿名攻击者、恶意服务作用者，授信的攻击者、恶意的内部人员；</p>
+<h5 id="说明："><a href="#说明：" class="headerlink" title="说明："></a>说明：</h5><ul>
+<li><p>匿名攻击者是不被信任的威胁作用者，通常试图从云边界的外部进行攻击</p>
+</li>
+<li><p>恶意服务作用者截取网络通信，试图恶意地使用或篡改数据。</p>
+</li>
+<li><p>授信的攻击者是经过授权的云服务用户，具有合法的证书，他们会使用这些证书来访问基于云的IT资源。</p>
+</li>
+<li><p>恶意的内部人员是试图滥用对云资源范围的访问特权的人。</p>
+</li>
+</ul>
+<p>###<div class="note red icon flat"><i class="note-icon fas fa-bullhorn"></i><p><font size=4>列举云安全威胁有哪些，并简要说明。</font></p>
+</div></p>
+<h5 id="云安全威胁主要有："><a href="#云安全威胁主要有：" class="headerlink" title="云安全威胁主要有："></a>云安全威胁主要有：</h5><ul>
+<li>流量窃听</li>
+<li>恶意媒介</li>
+<li>拒绝服务</li>
+<li>授权不足</li>
+<li>虚拟化攻击</li>
+<li>信任边界重叠</li>
+</ul>
+<h5 id="说明：-1"><a href="#说明：-1" class="headerlink" title="说明："></a>说明：</h5><ul>
+<li>流量窃听和恶意媒介攻击通常是由截取网络流量的恶意服务作用者实施的；</li>
+<li>拒绝服务攻击的发生是当目标IT资源由于请求过多而负载过重，这些请求意在使IT资源性能陷入瘫痪或不可用；</li>
+<li>授权不足攻击是指错误的授予了攻击者访问权限或是授权太宽泛，或是使用了弱密码；</li>
+<li>虚拟化攻击利用的是虚拟化环境的漏洞，获得了对底层物理硬件未被授权的访问；</li>
+<li>重叠的信任边界潜藏了一种威胁，攻击者可以利用多个云用户共享的、基于云的IT资源。</li>
+</ul>
+]]></content>
+      <tags>
+        <tag>Cloud Computing</tag>
+        <tag>homework</tag>
       </tags>
   </entry>
 </search>
