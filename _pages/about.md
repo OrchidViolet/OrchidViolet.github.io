@@ -45,7 +45,7 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 
 - [Foresight Prediction Enhanced Live-Streaming Recommendation](https://arxiv.org/pdf/2512.06700) <br>
   Jiangxia Cao\*, **Ruochen Yang\***, Xiang Chen, Changxin Lao, Yueyang Liu, Yusheng Huang, Yuanhao Tian, Xiangyu Wu, Shuang Yang, Zhaojie Liu, Guorui Zhou. <br>
-  *19th ACM International Conference on Web Search and Data Mining, 2026 (**WSDN 2026**)*.
+  *19th ACM International Conference on Web Search and Data Mining, 2026 (**WSDM 2026**)*.
 
 - [SARM: LLM-Augmented Semantic Anchor for End-to-End Live-Streaming Ranking](https://arxiv.org/pdf/2602.09401) <br>
   **Ruochen Yang**, Yueyang Liu, Zijie Zhuang, Changxin Lao, Yuhui Zhang, Jiangxia Cao, Jia Xu, Xiang Chen, Haoke Xiao, Xiangyu Wu, Xiaoyou Zhou, Xiao Lv, Shuang Yang, Tingwen Liu, Zhaojie Liu, Han Li, Kun Gai. <br>
