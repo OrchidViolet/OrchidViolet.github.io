@@ -89,4 +89,4 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 - **Program Committee / Reviewer**: KDD 2027/26, AAAI 2027/26, SIGIR 2026, CIKM 2026, ECML/PKDD 2026
 
 # 💻 Internships
-- <img src="Icons/kuaishou_logo.png" alt="Kuaishou" width="18" height="18"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System, *2024.08 - Present*, 
+- <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="18" height="18"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System, *2024.08 - Present*, 
