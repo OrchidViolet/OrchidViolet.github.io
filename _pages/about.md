@@ -25,8 +25,8 @@ My research interest includes Recommendation System, Information Retrieval, and 
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->  
 
 - *2026.08*: &nbsp;🎉🎉  Two papers have been accepted by CIKM 2026!
-- *2026.05*: &nbsp;🎉🎉  One papers have been accepted by KDD 2026!
-- *2025.11*: &nbsp;🎉🎉  One papers have been accepted by WSDM 2026!
+- *2026.05*: &nbsp;🎉🎉  One paper has been accepted by KDD 2026!
+- *2025.11*: &nbsp;🎉🎉  One paper has been accepted by WSDM 2026!
 - *2025.11*: &nbsp;🎉🎉  Two papers have been accepted by KDD 2026!
 
 # 📝 Publications 
