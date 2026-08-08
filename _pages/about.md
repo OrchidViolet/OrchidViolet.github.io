@@ -24,6 +24,7 @@ My research interest includes Recommendation System, Information Retrieval, and 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->  
 
+- *2026.08*: &nbsp;🎉🎉  Two papers have been accepted by CIKM 2026!
 - *2026.05*: &nbsp;🎉🎉  One papers have been accepted by KDD 2026!
 - *2025.11*: &nbsp;🎉🎉  One papers have been accepted by WSDM 2026!
 - *2025.11*: &nbsp;🎉🎉  Two papers have been accepted by KDD 2026!
@@ -32,24 +33,28 @@ My research interest includes Recommendation System, Information Retrieval, and 
 
 - [From Agnostic to Specific: Latent Preference Diffusion for Multi-Behavior Sequential Recommendation.](https://arxiv.org/pdf/2602.23132) <br>
   **Ruochen Yang**, Xiaodong Li, Jiawei Sheng, Jiangxia Cao, Xinkui Lin, Shen Wang, Shuang Yang, Zhaojie Liu, Tingwen Liu. <br>
-  *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
+  *The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
 
 - [FARM: Frequency-Aware Model for Cross-Domain Live-Streaming Recommendation](https://arxiv.org/pdf/2502.09375) <br>
   Xiaodong Li\*, **Ruochen Yang\***, Shuang Wen, Shen Wang, Yueyang Liu, Guoquan Wang, Weisong Hu, Qiang Luo, Jiawei Sheng, Tingwen Liu, Jiangxia Cao, Shuang Yang, Zhaojie Liu. <br>
-  *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
+  *The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
 
 - [OneLive: Dynamically Unified Generative Framework for Live-Streaming Recommendation](https://arxiv.org/pdf/2602.08612) <br>
   Shen Wang\*, Yusheng Huang\*, **Ruochen Yang\***, Shuang Wen\*, Pengbo Xu\*, Jiangxia Cao, Yueyang Liu, Kuo Cai, Chengcheng Guo, Shiyao Wang, Xinchen Luo, Qiang Luo,
 Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
-  *32nd SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
+  *The 32nd ACM SIGKDD Conference on Knowledge Discovery and Data Mining, 2026 (**KDD 2026**)*.
 
 - [Foresight Prediction Enhanced Live-Streaming Recommendation](https://arxiv.org/pdf/2512.06700) <br>
   Jiangxia Cao\*, **Ruochen Yang\***, Xiang Chen, Changxin Lao, Yueyang Liu, Yusheng Huang, Yuanhao Tian, Xiangyu Wu, Shuang Yang, Zhaojie Liu, Guorui Zhou. <br>
-  *19th ACM International Conference on Web Search and Data Mining, 2026 (**WSDM 2026**)*.
+  *The 19th ACM International Conference on Web Search and Data Mining, 2026 (**WSDM 2026**)*.
 
 - [SARM: LLM-Augmented Semantic Anchor for End-to-End Live-Streaming Ranking](https://arxiv.org/pdf/2602.09401) <br>
   **Ruochen Yang**, Yueyang Liu, Zijie Zhuang, Changxin Lao, Yuhui Zhang, Jiangxia Cao, Jia Xu, Xiang Chen, Haoke Xiao, Xiangyu Wu, Xiaoyou Zhou, Xiao Lv, Shuang Yang, Tingwen Liu, Zhaojie Liu, Han Li, Kun Gai. <br>
-  *Arxiv.*
+  *The 35th International ACM Conference on Knowledge and Information Management, 2026 (**CIKM 2026**)*
+
+- [Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling](https://arxiv.org/pdf/2604.25839) <br>
+  Tianbao Ma\*, **Ruochen Yang\***, Chengen Li, Yuexin Shi, Jiangxia Cao, Linxun Chen, Zhaojie Liu, Yanan Niu, Han Li, Kun Gai <br>
+  *The 35th International ACM Conference on Knowledge and Information Management, 2026 (**CIKM 2026**)*
 
 - [Unifying Generative Recall and Multi-Objective Ranking in a Single Decoder-Only Sequence](https://arxiv.org/pdf/2607.24439) <br>
   **Ruochen Yang**, Shuang Wen, Pengbo Xu, Yusheng Huang, Jiangxia Cao, Shuang Yang, Zhaojie Liu, Jiawei Sheng, Tingwen Liu. <br>
