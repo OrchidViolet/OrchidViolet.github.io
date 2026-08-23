@@ -90,8 +90,10 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. --> 
+- *2026.08* **Qogir Award** of Chinese Kuaishou Technology
+- *2026.04* Outstanding Intern of Kuaishou Technology
 - *2025.05* Merit Student of University of Chinese Academy of Sciences
-- *2023.06* Outstanding Graduate of Shandong University
+- *2023.06* **Outstanding Graduate** of Shandong University
 - *2019.09~2022.09* Academic Merit Scholarship of Shandong University
 
 # 📖 Educations
@@ -99,7 +101,7 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 - *2019.09 - 2023.06*, Undergraduate, Data Science and Big Data Technology, [Shandong University](https://new.sdu.edu.cn/)
 
 # ⭐ Services
-- **Program Committee / Reviewer**: KDD 2027/26, AAAI 2027/26, SIGIR 2026, CIKM 2026, ECML/PKDD 2026
+- **Program Committee / Reviewer**: KDD 2027, WSDM 2027, AAAI 2027/26, SIGIR 2026, CIKM 2026, ECML/PKDD 2026
 
 # 💻 Internships
-- <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="18" height="18"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System, *2024.08 - Present*, 
+- *2024.08 - Present*, <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="18" height="18"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System
