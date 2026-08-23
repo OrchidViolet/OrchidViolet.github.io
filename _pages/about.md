@@ -24,6 +24,7 @@ My research interest includes Recommendation System, Information Retrieval, and 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->  
 
+- *2026.08*: &nbsp;🎉🎉  One paper has been accepted by EMNLP 2026!
 - *2026.08*: &nbsp;🎉🎉  Two papers have been accepted by CIKM 2026!
 - *2026.05*: &nbsp;🎉🎉  One paper has been accepted by KDD 2026!
 - *2025.11*: &nbsp;🎉🎉  One paper has been accepted by WSDM 2026!
@@ -53,8 +54,12 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
   *The 35th International ACM Conference on Knowledge and Information Management, 2026 (**CIKM 2026**)*
 
 - [Break the Inaccessible Boundary: Distilling Post-Conversion Content for User Retention Modeling](https://arxiv.org/pdf/2604.25839) <br>
-  Tianbao Ma\*, **Ruochen Yang\***, Chengen Li, Yuexin Shi, Jiangxia Cao, Linxun Chen, Zhaojie Liu, Yanan Niu, Han Li, Kun Gai <br>
+  Tianbao Ma\*, **Ruochen Yang\***, Chengen Li, Yuexin Shi, Jiangxia Cao, Linxun Chen, Zhaojie Liu, Yanan Niu, Han Li, Kun Gai. <br>
   *The 35th International ACM Conference on Knowledge and Information Management, 2026 (**CIKM 2026**)*
+
+- [Where to Look and What to Use: Retrieve–Localize–Generate for Long-Term Conversational Memory Question Answering]() <br>
+  Yifan Wang, Xinkui Lin, Yongxiu Xu, Shen Gao, **Ruochen Yang**, Kun Huang, Yubin Wang, Jie Wu, Wei Liu, Jian Luan, Hongbo Xu, Shuo Shang. <br>
+  *The 2026 Conference on Empirical Methods in Natural Language Processing, 2026 (**EMNLP 2026**)*
 
 - [Unifying Generative Recall and Multi-Objective Ranking in a Single Decoder-Only Sequence](https://arxiv.org/pdf/2607.24439) <br>
   **Ruochen Yang**, Shuang Wen, Pengbo Xu, Yusheng Huang, Jiangxia Cao, Shuang Yang, Zhaojie Liu, Jiawei Sheng, Tingwen Liu. <br>
@@ -63,6 +68,9 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 - [Reward Guided Decoding for Generative Recommendation](https://arxiv.org/pdf/2607.25344) <br>
   **Ruochen Yang**, Yusheng Huang, Youfeng Zheng, Shuang Wen, Liangliang Chen, Pengbo Xu, Xiaoyu Zhang, Shijun Wang, Shuang Yang, Zhaojie Liu, Jiawei Sheng, Tingwen Liu. <br>
   *Arxiv.*
+
+- [Agentx: Towards agent-driven self-iteration of industrial recommender systems](https://arxiv.org/pdf/2606.26859) <br>
+  *Technical Report **Core Contribution***
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
