@@ -17,13 +17,14 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-Hi! I’m a third year Ph.D. Candidate from [Institute of Information Engineering,Chinese Academy of Sciences](https://www.iie.ac.cn/), advised by [Prof. Tingwen Liu](https://liutingwen.ac.cn/). I’ve also interned at [Kuaishou Technology](https://www.kuaishou.com/).
+Hi! I’m a third year Ph.D. Candidate from [Institute of Information Engineering,Chinese Academy of Sciences](https://www.iie.ac.cn/), advised by [Prof. Tingwen Liu](https://liutingwen.ac.cn/) and [Prof. Jiawei Sheng](https://jiaweisheng.github.io/). I’ve also interned at [Kuaishou Technology](https://www.kuaishou.com/), advised by [Dr. Jiangxia Cao](https://scholar.google.com/citations?user=KOfG2jAAAAAJ).
 
 My research interest includes Recommendation System, Information Retrieval, and Multimodal Understanding and Generation. I am expected to complete my Ph.D. in June 2028, and will be actively seeking opportunities in both industry and academia. If you are interested, please feel free to get in touch.
 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->  
 
+- *2026.10*: &nbsp;🎉🎉  Awarded the China Association for Science and Technology Youth Talent Support Program for Doctoral Students!
 - *2026.08*: &nbsp;🎉🎉  One paper has been accepted by EMNLP 2026!
 - *2026.08*: &nbsp;🎉🎉  Two papers have been accepted by CIKM 2026!
 - *2026.05*: &nbsp;🎉🎉  One paper has been accepted by KDD 2026!
@@ -90,6 +91,7 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 
 # 🎖 Honors and Awards
 <!-- - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. --> 
+- *2026.10* **China Association for Science and Technology Youth Talent Support Program for Doctoral Students** of China
 - *2026.08* **Qogir Award** of Kuaishou Technology
 - *2026.04* Outstanding Intern of Kuaishou Technology
 - *2025.05* Merit Student of University of Chinese Academy of Sciences
@@ -101,7 +103,8 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 - *2019.09 - 2023.06*, Undergraduate, Data Science and Big Data Technology, [Shandong University](https://new.sdu.edu.cn/)
 
 # ⭐ Services
-- **Program Committee / Reviewer**: KDD 2027, WSDM 2027, AAAI 2027/26, SIGIR 2026, CIKM 2026, ECML/PKDD 2026
+- **Program Committee / Reviewer**: KDD 2027, WWW 2027, WSDM 2027, AAAI 2027/26, SIGIR 2026, CIKM 2026, ECML/PKDD 2026
 
 # 💻 Internships
-- *2024.08 - Present*, <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="14" height="14"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System
+- *2026.08 - Present*, <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="14" height="14"> **Kuaishou Technology**, OneRec Team
+- *2024.08 - 2026.08*, <img src="_pages/Icons/kuaishou_logo.png" alt="Kuaishou" width="14" height="14"> **Kuaishou Technology**, Researcher on Live-Streaming Recommendation System
