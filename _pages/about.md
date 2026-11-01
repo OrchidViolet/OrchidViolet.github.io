@@ -24,7 +24,7 @@ My research interest includes Recommendation System, Information Retrieval, and 
 # 🔥 News
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. -->  
 
-- *2026.10*: &nbsp;🎉🎉  Awarded the China Association for Science and Technology Youth Talent Support Program for Doctoral Students!
+- *2026.10*: &nbsp;🎉🎉  I have been awarded the China Association for Science and Technology Youth Talent Support Program for Doctoral Students!
 - *2026.08*: &nbsp;🎉🎉  One paper has been accepted by EMNLP 2026!
 - *2026.08*: &nbsp;🎉🎉  Two papers have been accepted by CIKM 2026!
 - *2026.05*: &nbsp;🎉🎉  One paper has been accepted by KDD 2026!
@@ -58,7 +58,7 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
   Tianbao Ma\*, **Ruochen Yang\***, Chengen Li, Yuexin Shi, Jiangxia Cao, Linxun Chen, Zhaojie Liu, Yanan Niu, Han Li, Kun Gai. <br>
   *The 35th International ACM Conference on Knowledge and Information Management, 2026 (**CIKM 2026**)*
 
-- [Where to Look and What to Use: Retrieve–Localize–Generate for Long-Term Conversational Memory Question Answering]() <br>
+- [Where to Look and What to Use: Retrieve–Localize–Generate for Long-Term Conversational Memory Question Answering](https://aclanthology.org/2026.emnlp-main.1211.pdf) <br>
   Yifan Wang, Xinkui Lin, Yongxiu Xu, Shen Gao, **Ruochen Yang**, Kun Huang, Yubin Wang, Jie Wu, Wei Liu, Jian Luan, Hongbo Xu, Shuo Shang. <br>
   *The 2026 Conference on Empirical Methods in Natural Language Processing, 2026 (**EMNLP 2026**)*
 
@@ -72,6 +72,9 @@ Ruiming Tang, Shuang Yang, Zhaojie Liu. <br>
 
 - [Agentx: Towards agent-driven self-iteration of industrial recommender systems](https://arxiv.org/pdf/2606.26859) <br>
   *Technical Report **Core Contribution***
+
+- [Kwai Summary Attention V2 Technical Report](https://arxiv.org/pdf/2610.18654) <br>
+  *Technical Report **Contribution***
 
 <!--
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2016</div><img src='images/500x300.png' alt="sym" width="100%"></div></div>
